@@ -69,15 +69,6 @@ It can be used for activities such as:
 
 ---
 
-## 🏗️ Lab Architecture
-
-![](1-screenshot-title-image.png)
-
-
-Additional target machines can be added to the same virtual network in future projects.
-
----
-
 ## ⚙️ Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
@@ -123,7 +114,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](https://github.com/delwar722/networkwalks-B084G-week1-Cybersecurity-lab-setup/blob/main/Screenshot%202026-11-04%20111546.png)
+![](https://github.com/delwar722/networkwalks-B084G-week1-Cybersecurity-lab-setup/blob/9fd95d1302f6e4c0b025c04548e7f122c19ea24f/Screenshot%202026-11-04%20111242.png)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -172,7 +163,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+![](https://github.com/delwar722/networkwalks-B084G-week1-Cybersecurity-lab-setup/blob/9fd95d1302f6e4c0b025c04548e7f122c19ea24f/Screenshot%202026-11-04%20111612.png)
 
 ---
 
