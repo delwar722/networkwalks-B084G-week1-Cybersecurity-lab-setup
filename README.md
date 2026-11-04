@@ -123,7 +123,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](2-screenshot-network-settings-1.png)
+![]
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -150,7 +150,7 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](3-screenshot-kali-linux.png)
+![](https://github.com/delwar722/networkwalks-B084G-week1-Cybersecurity-lab-setup/blob/main/Screenshot%202026-11-04%20111612.png)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
